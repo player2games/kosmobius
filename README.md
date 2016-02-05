@@ -1,2 +1,2 @@
 # kosmobius
-Personal webspace 
+a personal webspace 
